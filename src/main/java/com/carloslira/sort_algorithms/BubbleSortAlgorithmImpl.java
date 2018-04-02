@@ -1,5 +1,6 @@
+package com.carloslira.sort_algorithms;
 
-public class BubbleSortAlgorithm implements SortAlgorithm {
+public class BubbleSortAlgorithmImpl implements SortAlgorithm {
 
 	@Override
 	public void sort(int[] values) {
