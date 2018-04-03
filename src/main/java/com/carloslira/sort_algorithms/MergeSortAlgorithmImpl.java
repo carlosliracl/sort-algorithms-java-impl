@@ -1,7 +1,5 @@
 package com.carloslira.sort_algorithms;
 
-import java.util.Arrays;
-
 public class MergeSortAlgorithmImpl implements SortAlgorithm {
 
 	@Override
